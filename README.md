@@ -115,7 +115,7 @@ O relatório interativo desenvolvido no Power BI conta com uma estrutura em grad
 ---
 
 ## 🤖 Declaração sobre o Uso de IA Generativa
-Este projeto utilizou ferramenta de Inteligência Artificial Generativa (Gemini) estritamente como suporte auxiliar para a estruturação, organização textual, revisão gramatical e formatação deste documento `README.md`, com base exclusiva nas informações e análises previamente coletadas pela autora.
+Este projeto utilizou ferramenta de Inteligência Artificial Generativa (Gemini) estritamente como suporte auxiliar para a estruturação, organização textual, revisão gramatical e formatação deste documento `README.md`, com base exclusiva nas informações e análises previamente coletadas pela autora. Os datos brutos antes da formatação estão disponíveis no arquivo Dados Brutos.docx presente neste respositório
 
 ---
 
